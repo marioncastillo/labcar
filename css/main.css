@@ -1,3 +1,4 @@
+/*seccion nav*/
 .navbar{
 	background-color: white;
 	border:transparent;
@@ -31,6 +32,7 @@
 margin:0px;
 }
 
+/*seccion dos*/
 .dos{
 	background-image: url(../img/taxi.jpg);
 	background-size: cover;
@@ -75,4 +77,23 @@ margin:0px;
 	font-weight: bold;
 
 }
+/*seccion tres*/
+.tres{
+	background-color: #f7b617;
+	color: white;
 
+}
+
+#linea{
+	padding:30px;
+}
+#contorno{
+	
+	margin:10px;
+}
+
+#texto3{
+	font-size: 20px;
+	padding: 10px;
+
+}
