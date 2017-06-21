@@ -33,10 +33,46 @@ margin:0px;
 
 .dos{
 	background-image: url(../img/taxi.jpg);
-	padding-bottom: 150%;
-	padding-top: 50%;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: bottom;
+	height: 700px;
+}
+
+
+
+#narajo{
+	background-color: #f7b617;
+	margin-right: 0px auto;
+	margin-top: 200px;
+	height: 300px;
+	width: 422px;
+	margin-left:10px;
+	padding-bottom: 10%;
+
+}
+
+#narajo2{
+	background-color: #f7b617;
+	margin-right: 0px auto;
+	margin-top: 250px;
+	height: 250px;
+	width: 300px;
+	margin-left:10px;
+	padding-bottom: 10%;
+	position: absolute;
+	
+
+}
+#texto1{
+	margin-left: 10%;
+	padding-top: 10%;
+	color: white;
+
+}
+
+.btn{
+	font-weight: bold;
+
 }
 
