@@ -1,1 +1,42 @@
-main.css
+.navbar{
+	background-color: white;
+	border:transparent;
+	font-weight: bold;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+.navbar-default .navbar-toggle{
+	
+	color: black;
+	border:transparent;
+	font-weight: bold;
+}
+
+.navbar-toggle .icon-bar{
+	margin-left: 0px;
+
+	
+
+}
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: black;
+
+
+}
+.navbar-toggle .icon-bar{
+margin:0px;
+}
+
+.dos{
+	background-image: url(../img/taxi.jpg);
+	padding-bottom: 150%;
+	padding-top: 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
