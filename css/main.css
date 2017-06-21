@@ -47,22 +47,22 @@ margin:0px;
 	background-color: #f7b617;
 	margin-right: 0px auto;
 	margin-top: 200px;
-	height: 300px;
-	width: 422px;
+	height: 400px;
+	width: 420px;
 	margin-left:10px;
 	padding-bottom: 10%;
 
 }
 
+
 #narajo2{
 	background-color: #f7b617;
 	margin-right: 0px auto;
-	margin-top: 250px;
-	height: 250px;
-	width: 300px;
+	margin-top: 200px;
+	height: 300px;
+	width: 344px;
 	margin-left:10px;
 	padding-bottom: 10%;
-	position: absolute;
 	
 
 }
@@ -95,5 +95,47 @@ margin:0px;
 #texto3{
 	font-size: 20px;
 	padding: 10px;
+
+}
+
+/*seccion cuatro*/
+.cuatro{
+	background-image: url(../img/conduce.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 400px;
+
+}
+
+
+
+#cuadro{
+	height: 400px;
+	width: 420px;
+	margin-left:10px;
+	padding-bottom: 10%;
+	background-color: rgba(0, 0, 0, .5);
+
+}
+
+#cuadro2{
+	background-color: rgba(0, 0, 0, .5);
+	height: 400px;
+	width: 420px;
+}
+
+#texto1{
+	margin-left: 10%;
+	padding-top: 20%;
+	color: white;
+
+}
+
+#botonnaranjo{
+	font-weight: bold;
+	background-color: #f7b617;
+	color: white;
+	border: transparent;
 
 }
