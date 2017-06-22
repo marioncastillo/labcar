@@ -139,3 +139,13 @@ margin:0px;
 	border: transparent;
 
 }
+
+.cinco{
+	background-color: #f7b617;
+}
+#map{
+	width: 50%;
+	height: 50vh;
+	border: 2px solid black;
+}
+
