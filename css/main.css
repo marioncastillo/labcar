@@ -202,17 +202,28 @@ footer{
 }
 .iconos{
 	color: white;
-	margin-top: 280px;
+	margin-top: 340px;
 	margin-bottom: 10px;
 }
+
+.iconos2{
+	color: white;
+	margin-bottom: 10px;
+	margin-top:20px;
+}
+
 i:hover{
 	color: grey;
+}
+
+i{
+	margin:5px;
 }
 
 li{
 	text-decoration: none;
 	list-style: none;
-	margin-top: 13px;
+	margin-top: 20px;
 }
 
 #mouse{
@@ -225,6 +236,11 @@ li{
 	margin-top: 13px;
 }
 
+#lista2{
+	margin-top: 13px;
+	margin-bottom: 50px;
+}
+
 #parr{
 	color: white;
 	margin-top: 20px;
@@ -232,10 +248,17 @@ li{
 }
 
 #imagen{
-	width: 140px;
+	width: 150px;
 	margin:10px;
 }
 
-#imageness{
-	margin-top: 160px;
+#imagen2{
+	width: 150px;
+	margin:10px;
+	margin-top: 50px;
 }
+
+#imageness{
+	margin-top: 210px;
+}
+
