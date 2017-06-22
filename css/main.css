@@ -20,16 +20,24 @@
 .navbar-toggle .icon-bar{
 	margin-left: 0px;
 
-	
-
 }
 .navbar-default .navbar-toggle .icon-bar{
 	background-color: black;
 
 
 }
-.navbar-toggle .icon-bar{
-margin:0px;
+
+.navbar-toggle{
+	float: left;
+	margin-left: 100px;
+	margin-top: 25px;
+}
+
+#logonav{
+	margin-bottom: 20px;
+	margin-top: -30px;
+	width: 100px;
+	margin-left: 50px;
 }
 
 /*seccion dos*/
@@ -57,13 +65,10 @@ margin:0px;
 
 #narajo2{
 	background-color: #f7b617;
-	margin-right: 0px auto;
 	margin-top: 200px;
 	height: 300px;
-	width: 344px;
-	margin-left:10px;
+	width: 350px;
 	padding-bottom: 10%;
-	
 
 }
 #texto1{
@@ -122,7 +127,8 @@ margin:0px;
 #cuadro2{
 	background-color: rgba(0, 0, 0, .5);
 	height: 400px;
-	width: 420px;
+	width: 428px;
+	margin-left: -15px;
 }
 
 #texto1{
@@ -173,14 +179,16 @@ margin:0px;
 	margin-left: 20px;
 	border-radius: 3px;
 	background-color:#f7b617; 
-	border-color: 1px solid white;
+	border: 1px solid white;
 }
 
 #tarifas{
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
-
+.letras input{
+	color: white;
+}
 
 #separado{
 	margin-top:20px;
