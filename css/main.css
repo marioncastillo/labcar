@@ -140,12 +140,24 @@ margin:0px;
 
 }
 
+/*seccion cinco*/
 .cinco{
 	background-color: #f7b617;
+	color: white;
 }
+
 #map{
 	width: 50%;
 	height: 50vh;
 	border: 2px solid black;
 }
 
+#encuentrame{
+	cursor: pointer;
+}
+
+#ruta{
+	color: black;
+	background-color: white;
+	border-radius: 5px;
+}

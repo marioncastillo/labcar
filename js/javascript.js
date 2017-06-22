@@ -29,6 +29,8 @@ function initMap() {
 		map.setCenter({lat:latitud, lng:longitud});
 	}
 
+
+
 	var funcionError = function (error) {
 		alert("Tenemos un problema con encontrar tu ubicación");
 	}
